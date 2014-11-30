@@ -1,7 +1,7 @@
 TelcoMockup
 ===========
 
-This is a REST application serving as a mockup od Telco data provider.
+This is a REST application serving as a mockup of Telco data provider.
 
 deployed @ https://limitless-brushlands-2961.herokuapp.com/Profile
 

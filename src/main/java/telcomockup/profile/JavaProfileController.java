@@ -56,7 +56,7 @@ public class JavaProfileController{
         String a[] = {"Prepaid", "Postpaid"};
         String l[] ={"Zagreb", "Vesteros", "Rome", "Sofia", "London", "New York"};
 
-        return new JavaProfileModel("Random",
+        return new JavaProfileModel(username,
                 a[(int) (Math.random()*1.99)],
                 l[(int) (Math.random()*5.99)]);
     }
